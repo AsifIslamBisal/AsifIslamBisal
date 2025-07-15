@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **bisalasif@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/AsifIslamBisal](https://github.com/AsifIslamBisal)
+- 📄 Know about my experiences [https://github.com/AsifIslamBisal](https://asif-islam-bisal.vercel.app/)
 
 - ⚡ Fun fact **I treat every pixel like a puzzle piece — placing it perfectly is my favorite kind of fun! 🎨🧩**
 
