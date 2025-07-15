@@ -8,7 +8,7 @@
 
 - 🔭 What I'm Working On [Product Hunt](https://product-hunt-f43f1.web.app/)
 
-- 🌱 Currently Leveling Up In **📘 Next.js • TypeScript • GraphQL • Tailwind CSS Best Practices • Scalable Architecture**
+- 🌱 Currently Leveling Up In **📘 Next.js • TypeScript • Tailwind CSS Best Practices • JavaScript**
 
 - 👯 I’m looking to collaborate on [Visa Navigator](https://visa-navigator-83cff.web.app/)
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **bisalasif@gmail.com**
 
-- 📄 Know about my experiences [https://asif-islam-bisal.vercel.app/]
+- 📄 Know about my experiences https://asif-islam-bisal.vercel.app/
 
 - ⚡ Fun fact **I treat every pixel like a puzzle piece — placing it perfectly is my favorite kind of fun! 🎨🧩**
 
