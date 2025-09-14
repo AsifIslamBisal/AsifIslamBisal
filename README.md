@@ -10,7 +10,7 @@
 
 - 🌱 Currently Leveling Up In **📘 Next.js • TypeScript • Tailwind CSS Best Practices • JavaScript**
 
-- 👯 I’m looking to collaborate on [Visa Navigator](https://visa-navigator-83cff.web.app/)
+- 👯 I’m looking to collaborate on [Visa Navigator](https://crave-craft.web.app/)
 
 - 🤝 I’m looking for help with [BlueSky Residences](https://hotel-booking-project-aa7bf.web.app/)
 
