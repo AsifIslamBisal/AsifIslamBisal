@@ -4,8 +4,6 @@
 <<<<<<< HEAD
 <img align="right" alt="certificate image" width="400" src="./images/certificate.png" />
 =======
-<img align="right" alt="certificate image" width="400" src="https://i.ibb.co/KzKQfV3p/certificate.jpg" />
->>>>>>> b3b2d47d6ea109e143d7e021400231c7464696a1
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=asifislambisal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
