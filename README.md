@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Asif Islam Bisal</h1>
 <h3 align="center">A creative frontend developer from the heart of Bangladesh 🇧🇩, crafting user-friendly web interfaces with passion and precision.</h3>
 
-<img align="right" alt="certificate image" width="600" height="300" src="https://i.ibb.co/KzKQfV3p/certificate.jpg" />
+<img align="right" alt="certificate image" width="400" src="https://i.ibb.co/KzKQfV3p/certificate.jpg" />
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=asifislambisal&label=Profile%20views&color=0e75b6&style=flat" alt="asifislambisal" />
+  <img src="https://komarev.com/ghpvc/?username=asifislambisal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 - 🔭 What I'm Working On: [**Product Hunt**](https://product-hunt-f43f1.web.app/)
@@ -70,14 +70,29 @@
 
 ---
 
+<h3 align="left">📊 GitHub Stats:</h3>
+
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asifislambisal&show_icons=true&locale=en&layout=compact" alt="asifislambisal" />
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=asifislambisal&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asifislambisal&show_icons=true&locale=en" alt="asifislambisal" />
+  &nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=asifislambisal&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asifislambisal&" alt="asifislambisal" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=asifislambisal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<h3 align="left">📈 Activity Graph:</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asifislambisal&theme=react-dark" alt="Asif's GitHub Activity Graph" />
+</p>
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider giving a star to my repositories!
 </p>
