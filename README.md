@@ -88,9 +88,9 @@
 
 ---
 
-<h3 align="left">🚀 Let's Build Something Great!</h3>
+<h3 align="left">🏆 Achievements:</h3>
 <p align="center">
-  <img src="https://i.ibb.co/Tm0ZCyb/code-banner.png" alt="Code Banner" />
+  <img src="https://github-profile-trophy.vercel.app/?username=asifislambisal&theme=tokyonight&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
