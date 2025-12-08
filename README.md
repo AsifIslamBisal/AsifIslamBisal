@@ -88,15 +88,6 @@
 
 ---
 
-<h3 align="left">📈 GitHub Activity:</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asifislambisal&bg_color=0D1117&color=00E676&line=00E676&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
-
-
----
-
 <p align="center">
   ⭐ If you like my work, consider giving a star to my repositories!
 </p>
