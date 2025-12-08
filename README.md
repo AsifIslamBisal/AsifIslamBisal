@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asif Islam Bisal</h1>
-<h3 align="center">A creative frontend developer from the heart of Bangladesh 🇧🇩, crafting user-friendly web interfaces with passion and precision.</h3>
+<h3 align="center">A passionate MERN stack developer from Bangladesh 🇧🇩, building seamless digital experiences with clean code and creative vision.</h3>
 
 <img align="right" alt="certificate image" width="400" src="./images/certificate.png" />
 
@@ -88,9 +88,9 @@
 
 ---
 
-<h3 align="left">📈 Activity Graph:</h3>
+<h3 align="left">🚀 Let's Build Something Great!</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asifislambisal&theme=react-dark" alt="Asif's GitHub Activity Graph" />
+  <img src="https://i.ibb.co/Tm0ZCyb/code-banner.png" alt="Code Banner" />
 </p>
 
 ---
