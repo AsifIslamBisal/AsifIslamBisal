@@ -90,8 +90,9 @@
 
 <h3 align="left">🏆 Achievements:</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asifislambisal&theme=tokyonight&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=asifislambisal&theme=algolia&no-frame=true&margin-w=5" alt="GitHub Trophies" />
 </p>
+
 
 ---
 
