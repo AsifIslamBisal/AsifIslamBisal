@@ -9,12 +9,13 @@
   <img src="https://komarev.com/ghpvc/?username=asifislambisal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🔭 What I'm Working On: [**Product Hunt**](https://product-hunt-f43f1.web.app/)
-- 🌱 Currently Leveling Up In: **📘 Next.js • TypeScript • Tailwind CSS Best Practices • JavaScript**
+- 🔭 What I'm Working On: [**Smart Pathshala**](https://www.smartpathshalabd.com/) 
+- 🛠️ Maintaining & Optimizing: [**Product Hunt**](https://product-hunt-f43f1.web.app/)
+- 🌱 Currently Leveling Up In: **📘 Next.js • TypeScript • Tailwind CSS Best Practices • Full-Stack Workflows**
 - 👯 I’m looking to collaborate on: [**The Hungry Fox**](https://crave-craft.web.app/)
 - 🤝 I’m looking for help with: [**BlueSky Residences**](https://hotel-booking-project-aa7bf.web.app/)
 - 📝 I regularly write articles on: [**LinkedIn**](https://linkedin.com/in/asif-islam-bisal-2b7902317)
-- 💬 Feel Free To Ask Me About: **🧠 React • Frontend Problems • Firebase Integration**
+- 💬 Feel Free To Ask Me About: **🧠 React • Frontend Architecture • Firebase Integration • UI/UX Performance**
 - 📫 How to reach me: **bisalasif@gmail.com**
 - 📄 Know about my experiences: [**Portfolio**](https://asif-islam-bisal.vercel.app/)
 - ⚡ Fun fact: **I treat every pixel like a puzzle piece — placing it perfectly is my favorite kind of fun! 🎨🧩**
